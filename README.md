@@ -1,8 +1,105 @@
-# React + Vite
+# ProCourse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ProCourse is a modern e-learning web application built with **React**, **Vite**, and **Tailwind CSS**.  
+It provides programming courses with a clean UI and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+
+- Modern responsive UI
+- Programming course showcase
+- Course enrollment section
+- Smooth navigation
+- Admin folder structure
+- Built using React + Vite
+- Tailwind CSS styling
+
+---
+
+# Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+# Project Structure
+
+```bash
+src/
+│
+├── admin/
+├── assets/
+├── components/
+├── utils/
+│
+├── App.jsx
+├── main.jsx
+├── App.css
+└── index.css
+```
+
+---
+
+# Installation
+
+## Clone the repository
+
+```bash
+git clone https://github.com/your-username/procourse.git
+```
+
+## Go to the project folder
+
+```bash
+cd procourse
+```
+
+## Install dependencies
+
+```bash
+npm install
+```
+
+## Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+# Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+# Future Improvements
+
+- User authentication
+- Payment gateway integration
+- Video course streaming
+- Course search and filtering
+- Admin dashboard
+- Backend integration
+- Student progress tracking
+
+---
+
+# Author
+
+Developed by **Fulbabu**
+
+---
+
+# License
+
+This project is licensed under the **MIT License**.
